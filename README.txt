@@ -1,4 +1,4 @@
-Olá, estou a aplicação web como o solicitado, um formulário para cadastro web , foi utilizado o Spring versão 3.0 MVC, com hibernate 3.0, AJAX para na VIEW para o cadastro, está configurado com o banco MYSQL,mas o hibernate não esta configurado para gerar a tabela automaticamente.
+Olá, estou a aplicação web como o solicitado, um formulário para cadastro web , foi utilizado o Spring versão 3.0 MVC, com hibernate 3.0,e ANNOTATIONS, AJAX para na VIEW para o cadastro, está configurado com o banco MYSQL,mas o hibernate não esta configurado para gerar a tabela automaticamente.
 as configurações do hibernate estão no arquivo "jdbc.proprieties e são essas.
 jdbc.driverClassName=com.mysql.jdbc.Driver
 jdbc.dialect=org.hibernate.dialect.MySQLDialect
